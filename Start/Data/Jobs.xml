@@ -1,0 +1,479 @@
+﻿<ArrayOfJob xmlns="http://schemas.datacontract.org/2004/07/FieldEngineer.DataModel" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Job>
+    <Customer>
+      <AdditionalContactNumber>09876 987654</AdditionalContactNumber>
+      <County>Berkshire</County>
+      <FirstName>Amanda</FirstName>
+      <HouseNumberOrName>20</HouseNumberOrName>
+      <Id i:nil="true"/>
+      <Postcode>RG6 1WG</Postcode>
+      <Prefix>Mrs</Prefix>
+      <PrimaryContactNumber>01234 123456</PrimaryContactNumber>
+      <Street>Demo Way</Street>
+      <Surname>Scott</Surname>
+      <Town>Bracknell</Town>
+    </Customer>
+    <EndTime>10:00 AM</EndTime>
+    <EquipmentIds xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <a:string>1</a:string>
+      <a:string>3</a:string>
+      <a:string>5</a:string>
+    </EquipmentIds>
+    <EtaSubmitted>True</EtaSubmitted>
+    <EtaTime>08:30 AM - 09:30 AM</EtaTime>
+    <JobHistory>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Updated job status to On Site</Comments>
+        <TimeStamp>26/08/2013 08:56 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Sent an ETA of around 08:58 AM</Comments>
+        <TimeStamp>26/08/2013 08:22 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Accepted job on 26/08/2013 08:21 AM</Comments>
+        <TimeStamp>26/08/2013 08:21 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Job schedule updated to 26/08/2013 09:00 AM</Comments>
+        <TimeStamp>20/08/2013 10:34 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Job postponed to 20/08/2013 09:07 AM</Comments>
+        <TimeStamp>20/08/2013 09:07 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Sent an ETA of around 08:55 AM</Comments>
+        <TimeStamp>20/08/2013 08:17 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Accepted job on 20/08/2013 08:15 AM</Comments>
+        <TimeStamp>20/08/2013 08:15 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Scheduled job to 20/08/2013 09:00 AM</Comments>
+        <TimeStamp>19/08/2013 05:11 PM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Cecelia Joseph</ActionBy>
+        <Comments>Created new order to install and setup.</Comments>
+        <TimeStamp>17/08/2013 11:17 AM</TimeStamp>
+      </JobHistoryItem>
+    </JobHistory>
+    <JobId>1102753551</JobId>
+    <JobNumber>1</JobNumber>
+    <StartTime>09:00 AM</StartTime>
+    <Status>Completed</Status>
+    <Title>New customer installation and setup</Title>
+  </Job>
+  <Job>
+    <Customer>
+      <AdditionalContactNumber>09876 987654</AdditionalContactNumber>
+      <County>Berkshire</County>
+      <FirstName>Glenn</FirstName>
+      <HouseNumberOrName>2</HouseNumberOrName>
+      <Id i:nil="true"/>
+      <Postcode>RG12 1QA</Postcode>
+      <Prefix>Mr</Prefix>
+      <PrimaryContactNumber>01234 123456</PrimaryContactNumber>
+      <Street>Fabrikam Way</Street>
+      <Surname>Weddle</Surname>
+      <Town>Bracknell</Town>
+    </Customer>
+    <EndTime>11:00 AM</EndTime>
+    <EquipmentIds xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <a:string>2</a:string>
+      <a:string>4</a:string>
+      <a:string>5</a:string>
+    </EquipmentIds>
+    <EtaSubmitted>False</EtaSubmitted>
+    <EtaTime>08:58 AM</EtaTime>
+    <JobHistory>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Updated job status to On Site</Comments>
+        <TimeStamp>26/08/2013 08:56 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Sent an ETA of around 08:58 AM</Comments>
+        <TimeStamp>26/08/2013 08:22 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Accepted job on 26/08/2013 08:21 AM</Comments>
+        <TimeStamp>26/08/2013 08:21 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Job schedule updated to 26/08/2013 09:00 AM</Comments>
+        <TimeStamp>20/08/2013 10:34 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Job postponed to 20/08/2013 09:07 AM</Comments>
+        <TimeStamp>20/08/2013 09:07 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Sent an ETA of around 08:55 AM</Comments>
+        <TimeStamp>20/08/2013 08:17 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Accepted job on 20/08/2013 08:15 AM</Comments>
+        <TimeStamp>20/08/2013 08:15 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Scheduled job to 20/08/2013 09:00 AM</Comments>
+        <TimeStamp>19/08/2013 05:11 PM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Cecelia Joseph</ActionBy>
+        <Comments>Created new order to install and setup.</Comments>
+        <TimeStamp>17/08/2013 11:17 AM</TimeStamp>
+      </JobHistoryItem>
+    </JobHistory>
+    <JobId>1049586320</JobId>
+    <JobNumber>2</JobNumber>
+    <StartTime>10:30 AM</StartTime>
+    <Status>Completed</Status>
+    <Title>Replacement of faulty TV receiver equipment</Title>
+  </Job>
+  <Job>
+    <Customer>
+      <AdditionalContactNumber>09876 987654</AdditionalContactNumber>
+      <County>Berkshire</County>
+      <FirstName>Elsa</FirstName>
+      <HouseNumberOrName>49</HouseNumberOrName>
+      <Id i:nil="true"/>
+      <Postcode>RG13 2RB</Postcode>
+      <Prefix>Ms</Prefix>
+      <PrimaryContactNumber>01234 123456</PrimaryContactNumber>
+      <Street>Contoso Street</Street>
+      <Surname>Hammond</Surname>
+      <Town>Bracknell</Town>
+    </Customer>
+    <EndTime>12:30 PM</EndTime>
+    <EquipmentIds xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <a:string>1</a:string>
+      <a:string>5</a:string>
+    </EquipmentIds>
+    <EtaSubmitted>False</EtaSubmitted>
+    <EtaTime/>
+    <JobHistory>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Job schedule updated to 26/08/2013 09:00 AM</Comments>
+        <TimeStamp>20/08/2013 10:34 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Cecelia Joseph</ActionBy>
+        <Comments>Created new order to install and setup.</Comments>
+        <TimeStamp>17/08/2013 11:17 AM</TimeStamp>
+      </JobHistoryItem>
+    </JobHistory>
+    <JobId>3800682315</JobId>
+    <JobNumber>3</JobNumber>
+    <StartTime>11:30 AM</StartTime>
+    <Status>Completed</Status>
+    <Title>New customer installation and setup</Title>
+  </Job>
+  <Job>
+    <Customer>
+      <AdditionalContactNumber>09876 987654</AdditionalContactNumber>
+      <County>Berkshire</County>
+      <FirstName>Arlene</FirstName>
+      <HouseNumberOrName>19</HouseNumberOrName>
+      <Id i:nil="true"/>
+      <Postcode>RG14 3SC</Postcode>
+      <Prefix>Mrs</Prefix>
+      <PrimaryContactNumber>01234 123456</PrimaryContactNumber>
+      <Street>Works Drive</Street>
+      <Surname>Hunter</Surname>
+      <Town>Bracknell</Town>
+    </Customer>
+    <EndTime>01:15 PM</EndTime>
+    <EquipmentIds xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <a:string>1</a:string>
+      <a:string>3</a:string>
+      <a:string>5</a:string>
+    </EquipmentIds>
+    <EtaSubmitted>False</EtaSubmitted>
+    <EtaTime/>
+    <JobHistory>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Updated job status to completed</Comments>
+        <TimeStamp>26/11/2011 08:56 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Updated job status to On Site</Comments>
+        <TimeStamp>26/08/2013 08:56 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Sent an ETA of around 08:55 AM</Comments>
+        <TimeStamp>20/08/2013 08:17 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Accepted job on 20/08/2013 08:15 AM</Comments>
+        <TimeStamp>20/08/2013 08:15 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Scheduled job to 20/08/2013 09:00 AM</Comments>
+        <TimeStamp>19/08/2013 05:11 PM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Cecelia Joseph</ActionBy>
+        <Comments>Created new order to install and setup.</Comments>
+        <TimeStamp>17/08/2013 11:17 AM</TimeStamp>
+      </JobHistoryItem>
+    </JobHistory>
+    <JobId>2212953765</JobId>
+    <JobNumber>4</JobNumber>
+    <StartTime>12:45 PM</StartTime>
+    <Status>On Site</Status>
+    <Title>Replacement of faulty TV receiver equipment</Title>
+  </Job>
+  <Job>
+    <Customer>
+      <AdditionalContactNumber>09876 987654</AdditionalContactNumber>
+      <County>Berkshire</County>
+      <FirstName>Kyle</FirstName>
+      <HouseNumberOrName>6</HouseNumberOrName>
+      <Id i:nil="true"/>
+      <Postcode>RG15 4TD</Postcode>
+      <Prefix>Mr</Prefix>
+      <PrimaryContactNumber>01234 123456</PrimaryContactNumber>
+      <Street>Fabrikam Crescent</Street>
+      <Surname>Tibbetts</Surname>
+      <Town>Bracknell</Town>
+    </Customer>
+    <EndTime>02:30 PM</EndTime>
+    <EquipmentIds xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <a:string>2</a:string>
+      <a:string>4</a:string>
+      <a:string>5</a:string>
+    </EquipmentIds>
+    <EtaSubmitted>False</EtaSubmitted>
+    <EtaTime/>
+    <JobHistory>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Job schedule updated to 26/08/2013 09:00 AM</Comments>
+        <TimeStamp>20/08/2013 10:34 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Cecelia Joseph</ActionBy>
+        <Comments>Created new order to install and setup.</Comments>
+        <TimeStamp>17/08/2013 11:17 AM</TimeStamp>
+      </JobHistoryItem>
+    </JobHistory>
+    <JobId>1823218759</JobId>
+    <JobNumber>5</JobNumber>
+    <StartTime>01:30 PM</StartTime>
+    <Status>Not Started</Status>
+    <Title>New customer installation and setup</Title>
+  </Job>
+  <Job>
+    <Customer>
+      <AdditionalContactNumber>09876 987654</AdditionalContactNumber>
+      <County>Berkshire</County>
+      <FirstName>Walter</FirstName>
+      <HouseNumberOrName>10</HouseNumberOrName>
+      <Id i:nil="true"/>
+      <Postcode>RG1 5UE</Postcode>
+      <Prefix>Mr</Prefix>
+      <PrimaryContactNumber>01234 123456</PrimaryContactNumber>
+      <Street>Contoso BLVD</Street>
+      <Surname>Seidel</Surname>
+      <Town>Bracknell</Town>
+    </Customer>
+    <EndTime>03:45 PM</EndTime>
+    <EquipmentIds xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <a:string>5</a:string>
+    </EquipmentIds>
+    <EtaSubmitted>False</EtaSubmitted>
+    <EtaTime/>
+    <JobHistory>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Job schedule updated to 26/08/2013 09:00 AM</Comments>
+        <TimeStamp>20/08/2013 10:34 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Cecelia Joseph</ActionBy>
+        <Comments>Created new order to install and setup.</Comments>
+        <TimeStamp>17/08/2013 11:17 AM</TimeStamp>
+      </JobHistoryItem>
+    </JobHistory>
+    <JobId>1009786142</JobId>
+    <JobNumber>6</JobNumber>
+    <StartTime>02:45 PM</StartTime>
+    <Status>Not Started</Status>
+    <Title>New customer installation and setup</Title>
+  </Job>
+  <Job>
+    <Customer>
+      <AdditionalContactNumber>09876 987654</AdditionalContactNumber>
+      <County>Berkshire</County>
+      <FirstName>Priscilla</FirstName>
+      <HouseNumberOrName>21</HouseNumberOrName>
+      <Id i:nil="true"/>
+      <Postcode>RG2 6VF</Postcode>
+      <Prefix>Mrs</Prefix>
+      <PrimaryContactNumber>01234 123456</PrimaryContactNumber>
+      <Street>Adventure Place</Street>
+      <Surname>Horton</Surname>
+      <Town>Bracknell</Town>
+    </Customer>
+    <EndTime>04:30 PM</EndTime>
+    <EquipmentIds xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <a:string>1</a:string>
+      <a:string>3</a:string>
+      <a:string>5</a:string>
+    </EquipmentIds>
+    <EtaSubmitted>False</EtaSubmitted>
+    <EtaTime/>
+    <JobHistory>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Updated job status to On Site</Comments>
+        <TimeStamp>26/08/2013 08:56 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Sent an ETA of around 08:58 AM</Comments>
+        <TimeStamp>26/08/2013 08:22 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Accepted job on 26/08/2013 08:21 AM</Comments>
+        <TimeStamp>26/08/2013 08:21 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Job schedule updated to 26/08/2013 09:00 AM</Comments>
+        <TimeStamp>20/08/2013 10:34 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Job postponed to 20/08/2013 09:07 AM</Comments>
+        <TimeStamp>20/08/2013 09:07 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Sent an ETA of around 08:55 AM</Comments>
+        <TimeStamp>20/08/2013 08:17 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Accepted job on 20/08/2013 08:15 AM</Comments>
+        <TimeStamp>20/08/2013 08:15 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Scheduled job to 20/08/2013 09:00 AM</Comments>
+        <TimeStamp>19/08/2013 05:11 PM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Cecelia Joseph</ActionBy>
+        <Comments>Created new order to install and setup</Comments>
+        <TimeStamp>17/08/2013 11:17 AM</TimeStamp>
+      </JobHistoryItem>
+    </JobHistory>
+    <JobId>1025687089</JobId>
+    <JobNumber>7</JobNumber>
+    <StartTime>04:00 PM</StartTime>
+    <Status>Not Started</Status>
+    <Title>Replacement of faulty TV receiver equipment</Title>
+  </Job>
+  <Job>
+    <Customer>
+      <AdditionalContactNumber>09876 987654</AdditionalContactNumber>
+      <County>Berkshire</County>
+      <FirstName>Marie</FirstName>
+      <HouseNumberOrName>1</HouseNumberOrName>
+      <Id i:nil="true"/>
+      <Postcode>RG3 7WG</Postcode>
+      <Prefix>Mrs</Prefix>
+      <PrimaryContactNumber>01234 123456</PrimaryContactNumber>
+      <Street>Fabrikam Common</Street>
+      <Surname>Parker</Surname>
+      <Town>Bracknell</Town>
+    </Customer>
+    <EndTime>05:15 PM</EndTime>
+    <EquipmentIds xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <a:string>2</a:string>
+      <a:string>3</a:string>
+      <a:string>5</a:string>
+    </EquipmentIds>
+    <EtaSubmitted>False</EtaSubmitted>
+    <EtaTime/>
+    <JobHistory>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Updated job status to On Site</Comments>
+        <TimeStamp>26/08/2013 08:56 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Sent an ETA of around 08:58 AM</Comments>
+        <TimeStamp>26/08/2013 08:22 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Al Pardo</ActionBy>
+        <Comments>Accepted job on 26/08/2013 08:21 AM</Comments>
+        <TimeStamp>26/08/2013 08:21 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Job schedule updated to 26/08/2013 09:00 AM</Comments>
+        <TimeStamp>20/08/2013 10:34 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Job postponed to 20/08/2013 09:07 AM</Comments>
+        <TimeStamp>20/08/2013 09:07 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Sent an ETA of around 08:55 AM</Comments>
+        <TimeStamp>20/08/2013 08:17 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roland Earls</ActionBy>
+        <Comments>Accepted job on 20/08/2013 08:15 AM</Comments>
+        <TimeStamp>20/08/2013 08:15 AM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Roger Timm</ActionBy>
+        <Comments>Scheduled job to 20/08/2013 09:00 AM</Comments>
+        <TimeStamp>19/08/2013 05:11 PM</TimeStamp>
+      </JobHistoryItem>
+      <JobHistoryItem>
+        <ActionBy>Cecelia Joseph</ActionBy>
+        <Comments>Created new order to install and setup.</Comments>
+        <TimeStamp>17/08/2013 11:17 AM</TimeStamp>
+      </JobHistoryItem>
+    </JobHistory>
+    <JobId>2102411032</JobId>
+    <JobNumber>8</JobNumber>
+    <StartTime>04:45 PM</StartTime>
+    <Status>Not Started</Status>
+    <Title>Replacement of faulty TV receiver equipment</Title>
+  </Job>
+</ArrayOfJob>

@@ -1,0 +1,205 @@
+﻿<ArrayOfEquipment xmlns="http://schemas.datacontract.org/2004/07/FieldEngineer.DataModel" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Equipment>
+    <Description>3D Over HDMI defines input/output protocols for major 3D video formats, paving the way for true 3D gaming and 3D home theater applications. Audio Return Channel of HDMI cable allows an HDMI connected TV with a built-in tuner to send audio data “upstream” to a surround sound system, eliminating the need for a separate audio cable.</Description>
+    <EquipmentId>1</EquipmentId>
+    <EquipmentNumber>HDMI123456</EquipmentNumber>
+    <EquipmentSpecifications>
+      <EquipmentSpecification>
+        <Name>Cable Length</Name>
+        <Value>1.83 Meters</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Cable Diameter</Name>
+        <Value>5.5mm</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Transfer speed</Name>
+        <Value>10.2 Gigabits </Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Full HDCP</Name>
+        <Value>Yes</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>XBOX 360</Name>
+        <Value>Yes</Value>
+      </EquipmentSpecification>
+    </EquipmentSpecifications>
+    <FullImage>/Data/EquipmentImages/HDMI_1.jpg</FullImage>
+    <Name>DUAL HDMI 1.4 CABLE</Name>
+    <ThumbImage>/Data/EquipmentImages/HDMI_1_Thumb.jpg</ThumbImage>
+  </Equipment>
+  <Equipment>
+    <Description>High Speed HDMI Cable, 1080p (Full HD) Supports 3D - Audio Return Channel - 4Kx2K - 1440p - 1080p - Blu-Ray - PS3.   
+      
+99.9% Oxygen Free Cable for Minimum Signal Degradation, ROHS Compliant.
+    </Description>
+    <EquipmentId>2</EquipmentId>
+    <EquipmentNumber>HDMI123457</EquipmentNumber>
+    <EquipmentSpecifications>
+      <EquipmentSpecification>
+        <Name>Connector Type</Name>
+        <Value>HDMI male to HDMI male</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Connector Finish</Name>
+        <Value>Gold</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Length</Name>
+        <Value>6ft </Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Conductor Plating</Name>
+        <Value>Tin</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Shielding type</Name>
+        <Value>EMI</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>HDMI Certified</Name>
+        <Value>Yes</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>HDCP Compliant</Name>
+        <Value>Yes</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>CEC Compliant</Name>
+        <Value>Yes</Value>
+      </EquipmentSpecification>
+    </EquipmentSpecifications>
+    <FullImage>/Data/EquipmentImages/HDMI_2.jpg</FullImage>
+    <Name>HDMI CABLE 6FT For BLURAY</Name>
+
+    <ThumbImage>/Data/EquipmentImages/HDMI_2_Thumb.jpg</ThumbImage>
+
+
+  </Equipment>
+  <Equipment>
+    <Description>RCA Cable 30ft/10m Composite Video Audio Projector.
+      
+Single RCA M-M cable.
+Length : 30ft/10m.
+RCA M-M type video cable.
+    </Description>
+    <EquipmentId>3</EquipmentId>
+    <EquipmentNumber>RCA123456</EquipmentNumber>
+    <EquipmentSpecifications>
+      <EquipmentSpecification>
+        <Name>Cable Length</Name>
+        <Value>H 30ft / 10m </Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Type</Name>
+        <Value>RCA MALE </Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Connector A </Name>
+        <Value>RCA-Male </Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Connector(s) B</Name>
+        <Value>RCA-Male</Value>
+      </EquipmentSpecification>
+    </EquipmentSpecifications>
+    <FullImage>/Data/EquipmentImages/RCA_1.jpg</FullImage>
+    <Name>RCA Cable</Name>
+
+    <ThumbImage>/Data/EquipmentImages/RCA_1_Thumb.jpg</ThumbImage>
+
+
+  </Equipment>
+  <Equipment>
+    <Description>90cm / 36" Offset Satellite Dish Antenna
+
+Offset Angle: 24.62°
+Aperture Diameter: 90cm/99cm
+    </Description>
+    <EquipmentId>4</EquipmentId>
+    <EquipmentNumber>DISH123456</EquipmentNumber>
+    <EquipmentSpecifications>
+      <EquipmentSpecification>
+        <Name>Offset Angle </Name>
+        <Value>24.62°</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Aperture Diameter </Name>
+        <Value>90cm/99cm</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Ku-Band Gain @ 12.5GHz</Name>
+        <Value>40.32dB </Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>F/D Ratio</Name>
+        <Value>0.6</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Focus Length</Name>
+        <Value>24 Inch</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Material</Name>
+        <Value>Steel</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Finish</Name>
+        <Value>Polyester Powder Coating</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Mounting Type</Name>
+        <Value>Pole and Wall</Value>
+      </EquipmentSpecification>
+    </EquipmentSpecifications>
+    <FullImage>/Data/EquipmentImages/Dish_1.jpg</FullImage>
+    <Name>Satellite Dish Antenna </Name>
+
+    <ThumbImage>/Data/EquipmentImages/Dish_1_Thumb.jpg</ThumbImage>
+
+
+  </Equipment>
+  <Equipment>
+    <Description>Digital Terrestrial Receiver-MPEG4,H.264, HDMI,USB,PVR,RCA.AV CONNECTOR. 
+      
+Support USB software Upgrade/Media playback and Recording,Real-time recording function with delay.
+    </Description>
+    <EquipmentId>5</EquipmentId>
+    <EquipmentNumber>STB123456</EquipmentNumber>
+    <EquipmentSpecifications>
+      <EquipmentSpecification>
+        <Name>Heatsinking </Name>
+        <Value>Yes,Shell outside</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Encrypt </Name>
+        <Value>No</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Video Modulator</Name>
+        <Value>No</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Tuner Type</Name>
+        <Value>CAM Tuner Design</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Demodulator Type</Name>
+        <Value>Embed to main chip set</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Power supply</Name>
+        <Value>DC 5V2A</Value>
+      </EquipmentSpecification>
+      <EquipmentSpecification>
+        <Name>Certification</Name>
+        <Value>CE authentication by CCS.</Value>
+      </EquipmentSpecification>
+    </EquipmentSpecifications>
+    <FullImage>/Data/EquipmentImages/SetTop_1.jpg</FullImage>
+    <Name>Set Top Box</Name>    
+    <ThumbImage>/Data/EquipmentImages/SetTop_1_Thumb.jpg</ThumbImage>
+
+  </Equipment>
+</ArrayOfEquipment>

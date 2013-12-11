@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FieldEngineer.DataModel.Customer">
+    <Position X="5.5" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAgAAAEAAAAAAgARCBAAAAAAAAAIAAAABAAA=</HashCode>
+      <FileName>DataModel\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldEngineer.DataModel.Equipment">
+    <Position X="0.75" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAAEAAAAAgAAAAAAAAAAYAIAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>DataModel\Equipment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="EquipmentSpecifications" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FieldEngineer.DataModel.EquipmentSpecification">
+    <Position X="4.75" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>DataModel\EquipmentSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldEngineer.DataModel.Job">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQBAAEAAAAAkAIAAAAAAAAIAAgQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataModel\Job.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Customer" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="JobHistory" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FieldEngineer.DataModel.JobGroup">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataModel\JobGroup.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Jobs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FieldEngineer.DataModel.JobHistoryItem">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>DataModel\JobHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
